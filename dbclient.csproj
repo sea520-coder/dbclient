@@ -10,7 +10,7 @@
     <PackageReference Include="Nlog" Version="4.6.3"/>
     <PackageReference Include="MySqlConnector" Version="0.56.0" />
     <PackageReference Include="MySqlConnector.Logging.NLog" Version="0.38.0"/>
-    <PackageReference Include="MessagePack" Version="2.1.90"/>
+    <PackageReference Include="MessagePack" Version="2.5.187"/>
   </ItemGroup>
   
 </Project>
